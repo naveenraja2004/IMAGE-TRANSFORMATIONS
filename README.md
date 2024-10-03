@@ -27,8 +27,8 @@ Save or display the final transformed images for analysis and use plt.show() to 
 
 ## Program:
 ```python
-Developed By:
-Register Number:
+Developed By:NAVEEN RAJA N R
+Register Number:212222230093
 
 
 
